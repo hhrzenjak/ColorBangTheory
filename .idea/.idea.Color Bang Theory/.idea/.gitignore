@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Color Bang Theory.iml
+# Datasource local storage ignored files
+/../../../../../../:\Unity Projects\Color Bang Theory\.idea\.idea.Color Bang Theory\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
